@@ -1,16 +1,25 @@
-### Hi there 👋
+### Welcome to the Real World
 
-<!--
-**AmadoGuerrero/AmadoGuerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been coding since I was 12 (started off with Vanilla JS back in 2005).
+I wanted to be a hacker when I was younger (I blame The Matrix) so I know my way around Linux and have an arguably decent understanding of Cybersecurity, Assembly Language, and Networking.
 
-Here are some ideas to get you started:
+Skills:
+-HTML/CSS/JS/TS
+-TypeORM/Knex
+-Node/Express
+-APIs/REST
+-SQL/MySQL/NoSQL
+-Redux/Context
+-React/Next.js/Redux/React Native
+-PHP/WP/Laravel
+-Python/Go
+-Linux
+-Java/C++/OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My hobbies include:
+- Coding (duh)
+- Electronics (Arduinos, Microcontrollers, etc.)
+- Woodworking
+- Playing Tennis (I used to teach it when I was younger)
+
+Find me on [LinkedIn](https://www.linkedin.com/in/amado-guerrero/)!
